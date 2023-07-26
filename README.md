@@ -2,7 +2,7 @@
 
  ✨ Bienvenide! ✨
  
-🌱 Actualmente estoy aprendiendo en Laboratoria para ser Front-End Developer 😄 y estoy empezando a familiarizarme con REACT 🔭
+🌱 Acabo de terminar el curso en  Laboratoria para ser Front-End Developer 😄 y estoy empezando a familiarizarme con REACT 🔭
 
 📫 Me puedes encontrar en [LinkedIn](https://www.linkedin.com/in/katalina-ortiz-esteban-01683b270/) 
 
